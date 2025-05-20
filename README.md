@@ -24,28 +24,28 @@ To explore and demonstrate SQL queries for real-world business scenarios and aca
 - Demonstrate various JOIN types using student and info tables
 
 ## 📊 Analysis Included
-Highest and lowest total sales amounts by region and country
+- Highest and lowest total sales amounts by region and country
 
-Average sales by shipping mode
+- Average sales by shipping mode
 
-Top-performing products and customers by total amount
+- Top-performing products and customers by total amount
 
-Distinct region and country counts
+- Distinct region and country counts
 
-Student performance analysis with ranking methods
+- Student performance analysis with ranking methods
 
-Join operations to match student data with personal info
+- Join operations to match student data with personal info
 
 ## 🔍 Key Insights
-Certain countries and regions consistently generate higher revenue
+- Certain countries and regions consistently generate higher revenue
 
-Specific shipping modes yield higher average sales
+- Specific shipping modes yield higher average sales
 
-Student ranking techniques help identify performance clusters
+- Student ranking techniques help identify performance clusters
 
-JOIN types provide powerful ways to combine related data
+- JOIN types provide powerful ways to combine related data
 
-CTE helps in filtering ranked data like 3rd or 6th toppers easily
+- CTE helps in filtering ranked data like 3rd or 6th toppers easily
 
 ## ✅ Conclusion
 This SQL project demonstrates the application of basic to advanced SQL features that are essential for data analysis in both business and academic use cases. The project reflects practical scenarios such as sales performance tracking, ranking analysis, and data joining techniques—skills highly useful in Data Analytics and BFSI roles.
